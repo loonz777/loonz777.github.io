@@ -1,6 +1,7 @@
 body{
 	padding-top: 50px;
 	font-family: 'Ubuntu', sans-serif;
+	margin-bottom: 50px;
 }
 
 .content:before {
@@ -59,7 +60,7 @@ hr {
 	height: 300px;
 	width: 300px;
 	float: left;
-	margin: 0 25px 25px 25px;
+	margin: 0 25px 25px 0;
 }
 
 .row {
@@ -75,7 +76,7 @@ hr {
 
 .container {
 	max-width: 1000px;
-	width: 80%;
+	width: 85%;
 }
 
 .carousel-inner > .item > img {
@@ -128,7 +129,7 @@ hr {
 #footer_text{
 	position: absolute;
 	float: left;
-	color: white;
+	color: #9d9d9d;
 
 }
 #homeH1{
